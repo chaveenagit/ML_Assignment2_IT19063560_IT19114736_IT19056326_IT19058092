@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387182676068",
+    "project_id": "confopla",
+    "storage_bucket": "confopla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387182676068:android:63ca24cb11db2734b7b771",
+        "android_client_info": {
+          "package_name": "com.sinhalaocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387182676068-144t633l1bvvd56ful5cohvfm1nedspu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmMBHRDwn9HYGcjN4iqDEg_2SbiOaf3fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387182676068-144t633l1bvvd56ful5cohvfm1nedspu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
